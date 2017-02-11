@@ -11,8 +11,10 @@
     android:layout_height="150dp"
     android:layout_margin="8dp"
     android:background="@drawable/circle"
+    android:lineSpacingExtra="4dp"
     android:padding="16dp"
     android:textColor="#FFF"
+    android:textSize="16sp"
     tools:text="Accelerate Decelerate Interpolator" />
 
 </FrameLayout>
