@@ -39,3 +39,9 @@ build
 
 # IntelliJ
 /out/
+
+# Keystore for signing release builds
+app/interpolator.keystore
+
+# Credentials for accessing tropos.keystore
+app/signing.gradle

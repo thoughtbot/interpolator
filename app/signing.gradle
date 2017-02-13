@@ -1,0 +1,6 @@
+ext.signing = [
+    storeFilePath : "interpolator.keystore",
+    storePassword : "onset-lawless-clash",
+    keyAlias : "interpolator",
+    keyPassword : "onset-lawless-clash"
+]
