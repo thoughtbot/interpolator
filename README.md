@@ -1,7 +1,15 @@
 ## interpolator
-A sample android app displaying all the various `Interpolators`
+An Android app displaying the effect of all the various `Interpolator` subclasses
 
 <img src="https://images.thoughtbot.com/blog-vellum-image-uploads/Oh7Ofpf6SzaPBpVS6IUC_ezgif.com-3348159e97.gif" width=300/>
+
+Download
+------------
+Click [here](https://www.dropbox.com/s/b9uxopl6p6gk5db/app-release.apk?dl=1)
+from your Android device to download the app. Please note, the installation
+process will start automatically only if you have [configured your
+Settings](https://developer.android.com/distribute/tools/open-distribution.html#unknown-sources)
+to allow the installation of apps from unknown sources.
 
 Contributing
 ------------
@@ -11,7 +19,6 @@ Thank you, [contributors]!
 
 [CONTRIBUTING]: CONTRIBUTING.md
 [contributors]: https://github.com/thoughtbot/interpolator/graphs/contributors
-
 
 License
 -------
